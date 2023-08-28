@@ -1,3 +1,5 @@
+# DO NOT CLONE THIS GOTO THE ORIGINAL REPOSITORY!
+
 This repository allows you to set up a AI Horde Worker to generate or alchemize images for others
 
 # AI Horde Worker
